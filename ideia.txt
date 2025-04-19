@@ -1,0 +1,5 @@
+Bona Coccina vai ser um site de receitas italianas, com doces e salgados.
+Produtos serão as receitas
+teremos 2 doces e 2 salgadas 
+clientes sera a area de membros 
+categoria doce e salgados
